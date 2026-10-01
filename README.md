@@ -1,5 +1,6 @@
 # 🎬 tts-smart-dubber
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/tts-smart-dubber/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI/CD](https://github.com/MobileConduit/tts-smart-dubber/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/tts-smart-dubber/actions/workflows/ci.yml)
 [![Engine: FFmpeg](https://img.shields.io/badge/Engine-FFmpeg-blue.svg)](https://ffmpeg.org)
