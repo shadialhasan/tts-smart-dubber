@@ -3,9 +3,9 @@
 > **Topics:** `video-dubbing` `text-to-speech` `tts` `voiceover` `audio-sync` `ffmpeg` `video-localization`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/tts-smart-dubber/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/tts-smart-dubber/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![CI/CD](https://github.com/MobileConduit/tts-smart-dubber/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/tts-smart-dubber/actions/workflows/ci.yml)
+[![CI/CD](https://github.com/shadialhasan/tts-smart-dubber/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/tts-smart-dubber/actions/workflows/ci.yml)
 [![Engine: FFmpeg](https://img.shields.io/badge/Engine-FFmpeg-blue.svg)](https://ffmpeg.org)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![Tests: Pytest](https://img.shields.io/badge/Tests-Pytest-green.svg)](https://docs.pytest.org)
@@ -79,7 +79,7 @@ flowchart TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/MobileConduit/tts-smart-dubber.git
+git clone https://github.com/shadialhasan/tts-smart-dubber.git
 cd tts-smart-dubber
 
 # Install dependencies
@@ -140,7 +140,7 @@ pytest -v tests/
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
