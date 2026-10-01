@@ -1,0 +1,12 @@
+{
+  "description": "Video audio replacement and synchronization pipeline integrating AI-synthesized TTS voiceover tracks",
+  "topics": [
+    "video-dubbing",
+    "text-to-speech",
+    "tts",
+    "voiceover",
+    "audio-sync",
+    "ffmpeg",
+    "video-localization"
+  ]
+}
